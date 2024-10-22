@@ -11,7 +11,6 @@ I am a Web Developer specializing in PHP and Laravel projects. I have a strong u
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue-dot-js)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node-dot-js)
 
 
