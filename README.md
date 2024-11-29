@@ -1,4 +1,7 @@
-![header](Rahed-Hossen-banner.png)
+<div align="center">
+  <img src="Rahed-Hossen-banner.png" alt="Rahed Hossen Banner" style="width: 100%; height: auto;"/>
+</div>
+
 
 <h1 align="center">Hi 👋, I'm Rahed Hossen</h1>
 <h3 align="center">A Passionate Junior Web Developer from Bangladesh</h3>
