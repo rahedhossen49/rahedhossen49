@@ -1,18 +1,64 @@
-Hi there 👋, I'm Rahed Hossen
+<h1 align="center">Hi 👋, I'm Rahed Hossen</h1>
+<h3 align="center">A Passionate Junior Web Developer from Bangladesh</h3>
 
-I am a Web Developer specializing in PHP and Laravel projects. I have a strong understanding of web development technologies, including HTML, CSS, Bootstrap, and Object-Oriented PHP. I’m passionate about building secure, fast, and user-friendly web applications, and I love to stay updated with the latest trends and frameworks in the web development world.
+<p align="center">
+  I am a Web Developer specializing in PHP and Laravel projects. I have a strong understanding of web development technologies, including HTML, CSS, Bootstrap, and Object-Oriented PHP. I’m passionate about building secure, fast, and user-friendly web applications, and I love to stay updated with the latest trends and frameworks in the web development world.
+</p>
 
 
-## 🛠️ Technologies & Tools
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node-dot-js)
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
+<div align="left" style="display: flex; flex-direction: column; align-items: center; justify-content: space-between; text-align: center;">
+  <div style="margin-top: 20px;">
+    <h3>📫 Contact:</h3>
+    <p>
+      <strong>Email</strong>: <a href="mailto:rahedhossen49@gmail.com">rahedhossen49@gmail.com</a><br>
+      <strong>Resume</strong>: <a href="please just blank this code any time upload " target="_blank">Click Here</a>
+    </p>
+  </div>
+</div>
+
+### 🌐 Connect with Me:
+  <a href="https://www.linkedin.com/in/rahed-hossen-393b41294/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/rahed_hossen49/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.facebook.com/rahedhossen4/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="mailto:rahedhossen49@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://x.com/RahedHossen49" target="_blank">
+    <img src="https://img.shields.io/badge/X-1DA1F2?logo=x&logoColor=white" alt="Twitter" />
+  </a>
+
+
+## 🌟 Objective:
+Passionate Junior Web Developer with hands-on experience in building dynamic web applications using PHP, Laravel, and MySQL. Eager to contribute to innovative projects and enhance my skills in a collaborative environment while delivering high-quality, user-centric solutions.
+
+## 💻 Technologies and Tools:
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap5](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white) 
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
+## 🏆 GitHub Stats
+| Top Languages | GitHub Stats | GitHub Streak |
+|:---:|:---:|:---:|
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahedhossen49&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahedhossen49&theme=transparent&hide_border=true&include_all_commits=true&count_private=false) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rahedhossen49&theme=transparent&hide_border=true) |
 
 <picture>
   <source
@@ -27,58 +73,4 @@ I am a Web Developer specializing in PHP and Laravel projects. I have a strong u
     alt="github contribution grid snake animation"
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
-</picture> 
-
-
-
-
-
-
----
-
-## 📊 GitHub Stats
-
-![Rahed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahedhossen49&show_icons=true&theme=radical)
-
----
-
-
-
-## 🌐 Connect with Me
-
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/rahedhossen49)  
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/rahedhossen4/)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahed-hossen-393b41294/)  
-[![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.com/channels/@me/1221926106651951169)  
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/RahedHossen49)  
-[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://web.telegram.org/a/rahedhossen49)
-
-
-
-🚀 Projects
-1. E-Commerce Platform (Laravel)
-I’m currently working on building a full-featured e-commerce platform using Laravel. I’ve focused on understanding the core features such as CRUD operations (Create, Read, Update, Delete) for managing products, users, and orders.
-Features:
-User authentication (Login/Registration)
-CRUD operations for products and categories
-Payment gateway integration to handle transactions
-
-2. Portfolio Website
-A personal website built with Bootstrap, where I showcase my projects and skills.
-Features:
-Simple and clean design Project
-A project gallery that highlights my work
-Contact form for inquiries
-
-
-
-## Support Me
-
-If you enjoy my work and would like to support me, you can:
-
-- ⭐️ Star my repositories
-- 🎁 Contribute to my open-source projects
-
----
-
-**Thanks for visiting!** 😊
+</picture>
