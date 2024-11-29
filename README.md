@@ -1,6 +1,8 @@
+![header](Rahed-Hossen-banner.png)
+
 <h1 align="center">Hi 👋, I'm Rahed Hossen</h1>
 <h3 align="center">A Passionate Junior Web Developer from Bangladesh</h3>
-<img src="https://i.ibb.co.com/yymZfxn/Rahed-Hossen.png"/>
+
 
 
 
