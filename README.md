@@ -5,18 +5,27 @@
 
 
 
-
-
-
-
-
-
-
-
-
 <p align="center">
   I am a Web Developer specializing in PHP and Laravel projects. I have a strong understanding of web development technologies, including HTML, CSS, Bootstrap, and Object-Oriented PHP. I’m passionate about building secure, fast, and user-friendly web applications, and I love to stay updated with the latest trends and frameworks in the web development world.
 </p>
+
+# 💫 About Me:
+
+👋 Hi there! I'm Rahed Hossen, a passionate Junior Web Developer from Bangladesh, currently diving deep into the world of web development.
+
+🌟 Specializing in PHP and Laravel, I focus on building secure, fast, and user-friendly web applications. I have a solid foundation in HTML, CSS, Bootstrap, and Object-Oriented PHP, and I'm always eager to stay updated with the latest trends in the web development space.
+
+💡 In addition to backend technologies, I’m expanding my skills in frontend development, specifically React and Tailwind CSS, to build dynamic and responsive user interfaces.
+
+🚀 I am currently working on e-commerce projects and sharpening my skills in both frontend and backend development, and I’m excited to collaborate on projects that push my boundaries.
+
+🔭 I’m currently working on Laravel  projects  
+👯 I’m looking to collaborate on e-commerce projects  
+🌱 I’m currently learning React, Tailwind CSS, and Next.js  
+💬 Ask me about PHP, Laravel, JavaScript, MySQL  
+📫 How to reach me **rahedhossen49@gmail.com**  
+📄 Know about my experiences [Resume](#)  
+⚡ Fun fact: I’m always eager to learn new things and improve my skills!
 
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
