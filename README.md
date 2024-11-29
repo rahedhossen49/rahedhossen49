@@ -4,7 +4,7 @@
 <p align="center">
   I am a Web Developer specializing in PHP and Laravel projects. I have a strong understanding of web development technologies, including HTML, CSS, Bootstrap, and Object-Oriented PHP. I’m passionate about building secure, fast, and user-friendly web applications, and I love to stay updated with the latest trends and frameworks in the web development world.
 </p>
-
+<a href="https://imgbb.com/"><img src="https://i.ibb.co.com/yymZfxn/Rahed-Hossen.png" alt="Rahed-Hossen" border="0" /></a>
 
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
